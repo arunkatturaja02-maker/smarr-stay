@@ -1,0 +1,1 @@
+"""StaySmart backend application package."""
